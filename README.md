@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cuongdh1603
 - 👀 I’m interested in JAVA BACKEND
-- 🌱 I’m currently learning Java and sql
+- 🌱 I’m currently learning Java and SQL
 - 💞️ I’m looking to collaborate on PTIT
 - 📫 How to reach me  dohungcuong16032001@gmail.com
 
