@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cuongdh1603
-- 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Java and Spring Framework
+- 👀 I’m interested in becoming a Backend Developer 🧑🏻‍💻
+- 🌱 I’m currently learning Java ☕ and Spring Framework 🍃
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  dohungcuong16032001@gmail.com
 
